@@ -336,6 +336,7 @@ function GetKimonoType() {
 }
 
 function GetSleeveLength(KimonoType) {
+    console.log(KimonoType);
     return KimonoType == "Furi-sode" ? "Long" : "Short";
 }
 

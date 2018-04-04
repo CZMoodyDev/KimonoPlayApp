@@ -9,4 +9,4 @@ Nikkei National Museum & Cultural Centre would like to thank:
 * Content Development Assistant: Rachelle Cheung
 * Content from the Kimono Culture Exhibit produced by guest curator Hitomi Harama
 * Special thanks to Yoko Matsuno & Kaori Lytton
-* Nikkei National Museum: Sherri Kajiwara, Carolyn Nakagawa
+* Nikkei National Museum & Cultural Centre: Sherri Kajiwara, Carolyn Nakagawa, Noriko Muraoka

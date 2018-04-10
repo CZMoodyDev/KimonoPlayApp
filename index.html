@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, height=device-height,initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <title>Kimono Play</title>
 
@@ -20,7 +20,11 @@
     <![endif]-->
   </head>
   <body class="intro-body">
-    <a class="start-btn btn btn-primary" href="season.html">START</a>
+    <a href="./season.html" width="100%" height="100%">
+    <div id="intro-body">
+      <img src="./Images/General/Kimono_Play_title_page_mobile.png" style="visibility: hidden; max-width: 100%;"/>
+    </div>
+    </a>
     <script type="text/javascript">
         localStorage.removeItem("ScenarioValues");
         localStorage.removeItem("ScenarioAlerts");

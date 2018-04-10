@@ -71,11 +71,12 @@ function PaintMaterial() {
 
 function DrawBaseLayers(DrawJuban) {
 
-    ImageQueue.push(DrawImage("./Images/Mannequin/mannequin.png"));
-
     if (DrawJuban) {
         ImageQueue.push(DrawImage("./Images/Mannequin/juban.png"));
     }
+
+    ImageQueue.push(DrawImage("./Images/Mannequin/mannequin.png"));
+
 }
 
 function DrawImage(Src) {

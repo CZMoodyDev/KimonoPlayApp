@@ -4,7 +4,7 @@ The KimonoPlay App for the Nikkei National Museum & Cultural Centre. This app wa
 Nikkei National Museum & Cultural Centre would like to thank:
 * The Government of British Columbia
 * Project & Content Management: Karah Goshinmon
-* Developer: Curtiz Zim Moody
+* Developer: Curtis Zim Moody
 * Graphics: Danielle Jette
 * Content Development Assistant: Rachelle Cheung
 * Content from the Kimono Culture Exhibit produced by guest curator Hitomi Harama
